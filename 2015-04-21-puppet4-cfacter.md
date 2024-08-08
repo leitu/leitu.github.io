@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ##Overview##
 This is very interesting, cfacter is as native package delivered as Puppet 4.0 AIO package, looks like no one touch it before, at least in Chinese Community, or probably I'm so isolate.
 
@@ -56,3 +59,5 @@ But if you want to customized cfacter as facter, it's not working as what your e
 As the result you will see, export CFACTER is null, but after you export FACTER, CFACTER will grab the data from facter.
 
 Enjoy the new cfacter or it will merge into facter :)
+
+[back](./)

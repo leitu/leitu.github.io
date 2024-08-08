@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ##Install CoreOS on HV
 We are using ipxe boot as installation method, which is easy for future usage.
 
@@ -68,3 +71,5 @@ If you are choosing vmware or vagrant, just change xen to other.
 
 1. https://github.com/gophercon/2014-talks/tree/master/kelseyhightower/ipxeserver
 2. https://github.com/kelseyhightower/coreos-ipxe-server
+
+[back](./)

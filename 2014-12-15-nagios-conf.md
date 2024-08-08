@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Nagios
 
 Based on previous page, we try to use dashboard to make the critical more clearly.
@@ -18,5 +21,4 @@ We also impress with project below
 [1]https://github.com/lozzd/Nagdash
 [2]https://github.com/zorkian/nagios-api
 
-
-
+[back](./)
