@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # How to use Moby
 
 Get Moby
@@ -146,3 +149,5 @@ Terminated
 ```
 
 the system needs the xhyve to run 
+
+[back](./)

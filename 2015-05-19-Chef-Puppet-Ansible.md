@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Chef VS Puppet VS Ansible VS osquery
 
 update on Mar 8, update facebook/osquery
@@ -166,3 +169,5 @@ it's easy to get the value
 
 ###Ohai
 
+
+[back](./)
